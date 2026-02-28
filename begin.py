@@ -1,0 +1,1 @@
+print("ishwari you are intelligent")
